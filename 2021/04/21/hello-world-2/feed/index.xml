@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/</link>
+	<atom:link href="https://dimitratsoli.com/2021/04/21/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dimitratsoli.com/2021/04/21/hello-world-2/</link>
 	<description>Product Design Portfolio</description>
 	<lastBuildDate>Wed, 21 Apr 2021 11:52:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/#comment-2</link>
+		<link>https://dimitratsoli.com/2021/04/21/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 21 Apr 2021 11:52:40 +0000</pubDate>

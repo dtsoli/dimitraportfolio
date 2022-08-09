@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DimitraPortfolio</title>
-	<atom:link href="https://dtsoli.github.io/dimitraportfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dtsoli.github.io/dimitraportfolio/</link>
+	<atom:link href="https://dimitratsoli.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dimitratsoli.com/</link>
 	<description>Product Design Portfolio</description>
 	<lastBuildDate>Wed, 25 May 2022 10:10:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,36 +21,36 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://dtsoli.github.io/dimitraportfolio/wp-content/uploads/2022/06/cropped-logosmall04-32x32.png</url>
+	<url>https://dimitratsoli.com/wp-content/uploads/2022/06/cropped-logosmall04-32x32.png</url>
 	<title>DimitraPortfolio</title>
-	<link>https://dtsoli.github.io/dimitraportfolio/</link>
+	<link>https://dimitratsoli.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://dtsoli.github.io/dimitraportfolio/2022/05/25/hello-world/</link>
-					<comments>https://dtsoli.github.io/dimitraportfolio/2022/05/25/hello-world/#comments</comments>
+		<link>https://dimitratsoli.com/2022/05/25/hello-world/</link>
+					<comments>https://dimitratsoli.com/2022/05/25/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dimitra.ts95]]></dc:creator>
 		<pubDate>Wed, 25 May 2022 10:10:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://dtsoli.github.io/dimitraportfolio/?p=1</guid>
+		<guid isPermaLink="false">https://dimitratsoli.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dtsoli.github.io/dimitraportfolio/2022/05/25/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dimitratsoli.com/2022/05/25/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/</link>
-					<comments>https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/#comments</comments>
+		<link>https://dimitratsoli.com/2021/04/21/hello-world-2/</link>
+					<comments>https://dimitratsoli.com/2021/04/21/hello-world-2/#comments</comments>
 		
 		<dc:creator><![CDATA[dimitra.ts95]]></dc:creator>
 		<pubDate>Wed, 21 Apr 2021 11:52:40 +0000</pubDate>
@@ -62,7 +62,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dtsoli.github.io/dimitraportfolio/2021/04/21/hello-world-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dimitratsoli.com/2021/04/21/hello-world-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
