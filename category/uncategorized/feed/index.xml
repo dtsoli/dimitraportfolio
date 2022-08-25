@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized | Dimitra Tsoli</title>
+	<title>Uncategorized Archives | Dimitra Tsoli</title>
 	<atom:link href="https://dimitratsoli.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dimitratsoli.com/</link>
+	<link>https://dimitratsoli.com/category/uncategorized/</link>
 	<description>Product Design Portfolio</description>
 	<lastBuildDate>Wed, 25 May 2022 10:10:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://dimitratsoli.com/wp-content/uploads/2022/06/cropped-logosmall04-32x32.png</url>
-	<title>Uncategorized | Dimitra Tsoli</title>
-	<link>https://dimitratsoli.com/</link>
+	<title>Uncategorized Archives | Dimitra Tsoli</title>
+	<link>https://dimitratsoli.com/category/uncategorized/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://dimitratsoli.com/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://dimitratsoli.com/2022/05/25/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://dimitratsoli.com/">Dimitra Tsoli</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://dimitratsoli.com/2022/05/25/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://dimitratsoli.com/">Dimitra Tsoli</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://dimitratsoli.com/2022/05/25/hello-world/feed/</wfw:commentRss>
@@ -57,9 +60,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://qi88.qodeinteractive.com/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://dimitratsoli.com/2021/04/21/hello-world-2/">Hello world!</a> appeared first on <a rel="nofollow" href="https://dimitratsoli.com/">Dimitra Tsoli</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://dimitratsoli.com/2021/04/21/hello-world-2/">Hello world!</a> appeared first on <a rel="nofollow" href="https://dimitratsoli.com/">Dimitra Tsoli</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://dimitratsoli.com/2021/04/21/hello-world-2/feed/</wfw:commentRss>
