@@ -11,11 +11,11 @@
 	<atom:link href="https://dimitratsoli.com/portfolio-item/sunset/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dimitratsoli.com/portfolio-item/sunset/</link>
 	<description>Product Design Portfolio</description>
-	<lastBuildDate>Mon, 22 Aug 2022 14:02:17 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Oct 2022 10:54:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>
